@@ -261,8 +261,8 @@ for lots of large jobs.
 * Add some logging information
 
 ## 0.72.0
-* Upgrade Spring Boot to 1.4.0-RELEASE
-* Upgrade Spring to 4.3.2-RELEASE
+* Upgrade Spring Boot to 1.4.0.RELEASE
+* Upgrade Spring to 4.3.2.RELEASE
 * Add spring-boot-starter-test dependency for @SpringBootTest annotation
 
 * IMPORTANT: Please follow the Migration Guide on
